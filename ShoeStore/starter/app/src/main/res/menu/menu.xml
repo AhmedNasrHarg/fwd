@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/instructionFragment"
+        android:title="instructions"/>
+    <item
+        android:id="@+id/shoeDetailFragment"
+        android:title="Shoe Details" />
+    <item
+        android:id="@+id/loginFragment"
+        android:title="Log out" />
+
+</menu>
